@@ -1,0 +1,12 @@
+{
+  "name": "react-native-utils",
+  "version": "1.0.0",
+  "description": "Utils for React Native Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":""
+  },
+  "author": "Razzib",
+  "license": "MIT"
+}
